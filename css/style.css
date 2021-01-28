@@ -1,0 +1,5 @@
+.container {
+    height: calc(100% - 50px);
+    width: calc(100% - 0px);
+    border: 1px solid red;
+}
